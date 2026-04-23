@@ -1,0 +1,13 @@
+/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.mp3
+  Content-Type: audio/mpeg
+
+/*.jpg
+  Content-Type: image/jpeg
+
+/*.json
+  Content-Type: application/json
